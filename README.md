@@ -1,4 +1,4 @@
-# Addressing Class Imbalance in Credit Fraud Detection
+# Addressing Class Imbalance in Credit Fraud Detection using Synthetic Data Generation
 
 
 ## Overview
